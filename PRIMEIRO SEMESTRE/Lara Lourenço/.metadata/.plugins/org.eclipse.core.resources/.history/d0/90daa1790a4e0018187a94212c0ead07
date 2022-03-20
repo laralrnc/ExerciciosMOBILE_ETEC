@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.n_or.quizapp.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:text="@string/Questionário de conhecimentos gerais"
+                android:textAlignment="center"
+                android:textSize="22sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/1- Em qual cidade brasileira está o Rio Tietê?"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/question_1_SP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/São Paulo" />
+
+            <CheckBox
+                android:id="@+id/question_1_RJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/Rio de Janeiro" />
+
+            <CheckBox
+                android:id="@+id/question_1_BH"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/Belo Horizonte" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/2-Nome do navegador português que 'descobriu' o Brasil "
+                android:textSize="16sp" />
+
+
+
+                <CheckBox
+                    android:id="@+id/question_2_PAC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="@string/Pedro Álvares Cabral" />
+
+                <CheckBox
+                    android:id="@+id/question_2_CC"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="@string/Cristovão Colombo" />
+
+                <CheckBox
+                    android:id="@+id/question_2_VG"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="@string/Vasco da Gama" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/3- Qual o maior planeta so sistema solar"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/question_3_jupiter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="@string/Júpiter />
+                
+
+            <CheckBox
+                android:id="@+id/question_3_saturno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="Marte" />
+
+            <CheckBox
+                android:id="@+id/question_3_marte"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="0dp"
+                android:text="Marte" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="4-Qual a estação do ano que antece a primavera"
+                android:textSize="16sp" />
+
+        
+
+                <CheckBox
+                    android:id="@+id/question_4_verao"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Verão" />
+
+                <CheckBox
+                    android:id="@+id/question_4_inverno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Inverno" />
+
+               <CheckBox
+                    android:id="@+id/question_4_outono"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Outono" />
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="5-Qual cidade é conhecida como 'Cidade Maravilhosa'?"
+                android:textSize="16sp" />
+                        
+
+
+                <CheckBox
+                    android:id="@+id/question_5_rio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Rio de Janeiro" />
+
+                <CheckBox
+                    android:id="@+id/question_5_gramado"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Gramado" />
+
+               <CheckBox
+                    android:id="@+id/question_5_campos"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Campos do Jordão" />
+            
+                        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="6-Onde fica o Machu Picchu?"
+                android:textSize="16sp" />
+                        
+      
+
+               <CheckBox
+                    android:id="@+id/question_6_peru"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Peru" />
+
+                <CheckBox
+                    android:id="@+id/question_6_chile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Chile" />
+
+                <CheckBox
+                    android:id="@+id/question_6_uruguai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Uruguai" />
+            
+               <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="7-Qual o significado da sigla OVNI?"
+                android:textSize="16sp" />
+                        
+
+
+                <CheckBox
+                    android:id="@+id/question_7_ovni1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Organização Voadora Não Institucional" />
+
+               <CheckBox
+                    android:id="@+id/question_7_ovni2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Objeto Voador Não Identificado" />
+
+                <CheckBox
+                    android:id="@+id/question_7_ovni3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Objeto Voador Nacional Independente" />
+
+              
+                        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="8-Qual a estrela que fica mais proxima do planeta Terra?"
+                android:textSize="16sp" />
+                        
+
+                <CheckBox
+                    android:id="@+id/question_8_sol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Sol" />
+
+                <CheckBox
+                    android:id="@+id/question_8_lua"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Lua" />
+
+                <CheckBox
+                    android:id="@+id/question_8_alfa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Alfa Centauri" />
+
+                     <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="9-Qual o significado da sigla ONU?"
+                android:textSize="16sp" />
+                        
+
+
+                <CheckBox
+                    android:id="@+id/question_9_onu1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Organização das Nações Unidas" />
+
+                <CheckBox
+                    android:id="@+id/question_9_onu2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Ordens na Unidade" />
+
+                <CheckBox
+                    android:id="@+id/question_9_onu3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="Organização Não Universal" />
+          
+               
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="20dp"
+                android:text="10-Com quantos anos de casado se comemora as 'Bodas de Ouro'?"
+                android:textSize="16sp" />
+                        
+
+
+              <CheckBox
+                    android:id="@+id/question_10_50"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="4dp"
+                    android:text="50 anos" />
+
+               <CheckBox
+                    android:id="@+id/question_10_40"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="40 anos" />
+
+                <CheckBox
+                    android:id="@+id/question_10_35"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="22dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="2dp"
+                    android:text="35 anos" />
+
+            
+            <Button
+                android:id="@+id/evaluate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="22dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:onClick="startEvaluation"
+                android:text="@string/evaluate_button" />
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

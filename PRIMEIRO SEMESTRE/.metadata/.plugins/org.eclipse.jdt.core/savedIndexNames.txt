@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+E:\LARA\TM\.metadata\.plugins\org.eclipse.jdt.core
+3093054810.index
+2982965073.index
+777479420.index

@@ -1,0 +1,12 @@
+package com.example.ttt;
+
+import android.view.View;
+
+public class OnClickListener {
+
+	public void onClick(View v) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

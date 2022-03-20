@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BancoDeDados</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_grava_registros">GravaRegistrosActivity</string>
+    <string name="title_activity_grava_registro2">GravaRegistro2Activity</string>
+    <string name="title_activity_consultar_dados">ConsultarDadosActivity</string>
+    <string name="title_activity_alterar_dados">AlterarDadosActivity</string>
+    <string name="title_activity_alterar_dados2">AlterarDados2Activity</string>
+    <string name="title_activity_excluir_dados">ExcluirDadosActivity</string>
+    <string name="title_activity_excluir_dados2">ExcluirDados2Activity</string>
+
+</resources>

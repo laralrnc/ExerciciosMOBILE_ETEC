@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SistemaFerramentas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cadastrar_ferramentas">CadastrarFerramentasActivity</string>
+    <string name="title_activity_alterar_dados">AlterarDadosActivity</string>
+    <string name="title_activity_consultar_ferramenta">ConsultarFerramentaActivity</string>
+    <string name="title_activity_excluir_ferramenta">ExcluirFerramentaActivity</string>
+    <string name="title_activity_busca_ferramentas">BuscaFerramentasActivity</string>
+	<string-array name="opcoes_busca">
+	    <item>Mostrar tudo</item>
+	        <item> Busca por nome</item>
+	        <item>Busca por fabricante</item>
+	        <item>Busca por referencia</item>
+	</string-array>
+</resources>

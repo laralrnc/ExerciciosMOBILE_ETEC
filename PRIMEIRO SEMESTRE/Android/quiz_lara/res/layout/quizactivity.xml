@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_light"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/pergunta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="35px" />
+
+    <Button
+        android:id="@+id/btnresponder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/pergunta"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="98dp"
+        android:text="Responder"
+        android:onClick="btnresponderOnClick" />
+
+    <RadioGroup
+        android1:id="@+id/rgrespostas"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_above="@+id/btnresponder"
+        android1:layout_alignParentLeft="true"
+        android1:layout_marginBottom="84dp"
+        android1:layout_marginLeft="31dp" >
+
+        <RadioButton
+            android1:id="@+id/rbresposta1"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:checked="true"
+            android1:text="RadioButton" />
+
+        <RadioButton
+            android1:id="@+id/rbresposta2"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:text="RadioButton" />
+
+        <RadioButton
+            android1:id="@+id/rbresposta3"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:text="RadioButton" />
+    </RadioGroup>
+
+</RelativeLayout>

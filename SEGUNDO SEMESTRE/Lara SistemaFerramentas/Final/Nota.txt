@@ -1,0 +1,11 @@
+Criar um Sistema de Banco de Dados onde o nome do Projeto é o Seunome_Banco,o inicio do projeto esta apartir da pagina 91 da apostila.
+
+Entregas
+
+3º A Turma A = 28/11
+
+3º A Turma B = 29/11
+
+3º B Turma A = 27/11
+
+3º B Turma B = 28/11

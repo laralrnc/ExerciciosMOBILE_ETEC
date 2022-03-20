@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/chk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="checkbox" />
+
+    <Button
+        android:id="@+id/combo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="radiobutton" />
+
+    <Button
+        android:id="@+id/radio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="combobox" />
+
+    <Button
+        android:id="@+id/sair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sair" />
+
+</LinearLayout>

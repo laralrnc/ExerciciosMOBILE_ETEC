@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\etecja\Documents\Android\.metadata\.plugins\org.eclipse.jdt.core
+3896549630.index
+4067767665.index
+1447211109.index
+4015826525.index
+2265899818.index

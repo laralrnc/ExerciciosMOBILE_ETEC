@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sistemaferramentas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.sistemaferramentas.MenuPrincipalActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.sistemaferramentas.CadastrarFerramentasActivity"
+            android:label="@string/title_activity_cadastrar_ferramentas" >
+        </activity>
+        <activity
+            android:name="com.example.sistemaferramentas.AlterarDadosActivity"
+            android:label="@string/title_activity_alterar_dados" >
+        </activity>
+        <activity
+            android:name="com.example.sistemaferramentas.ConsultarFerramentaActivity"
+            android:label="@string/title_activity_consultar_ferramenta" >
+        </activity>
+        <activity
+            android:name="com.example.sistemaferramentas.ExcluirFerramentaActivity"
+            android:label="@string/title_activity_excluir_ferramenta" >
+        </activity>
+        <activity
+            android:name="com.example.sistemaferramentas.BuscaFerramentasActivity"
+            android:label="@string/title_activity_busca_ferramentas" >
+        </activity>
+    </application>
+
+</manifest>

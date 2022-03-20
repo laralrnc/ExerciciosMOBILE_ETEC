@@ -1,0 +1,1083 @@
+!SESSION 2018-03-14 17:47:50.981 -----------------------------------------------
+eclipse.buildId=v22.0.1-685705
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY org.eclipse.ui 4 4 2018-03-14 17:48:18.898
+!MESSAGE Plug-in 'org.eclipse.cdt.ui' contributed an invalid Menu Extension (Path: 'project/org.eclipse.cdt.ui.prjmenu' is invalid): org.eclipse.cdt.ui.manageConfigsAction2
+
+!ENTRY org.eclipse.ui 4 4 2018-03-14 17:48:18.904
+!MESSAGE Plug-in 'org.eclipse.cdt.ui' contributed an invalid Menu Extension (Path: 'project/org.eclipse.cdt.ui.prjmenu' is invalid): org.eclipse.cdt.ui.buildConfigMenuAction
+
+!ENTRY org.eclipse.ui 4 4 2018-03-14 17:48:18.907
+!MESSAGE Plug-in 'org.eclipse.cdt.ui' contributed an invalid Menu Extension (Path: 'project/org.eclipse.cdt.ui.prjmenu' is invalid): org.eclipse.cdt.ui.wsselection
+!SESSION 2018-04-26 10:10:46.950 -----------------------------------------------
+eclipse.buildId=v22.0.1-685705
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2018-04-26 10:12:08.411
+!MESSAGE Failed to load properties file for project 'quiz_Lara'
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-26 10:12:16.041
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\etecja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.666
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.671
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.679
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.684
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.690
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.697
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.703
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.708
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.714
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.721
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.727
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.733
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.738
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.745
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.751
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.757
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.770
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.777
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.783
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.790
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:13:57.797
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.522
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.528
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.576
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.581
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.587
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.593
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.599
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.604
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.610
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.616
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.621
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.627
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.631
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.637
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.642
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.648
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.654
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.660
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.666
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.692
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:18:47.698
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.165
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.171
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.190
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.195
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.201
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.208
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.214
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.218
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.225
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.230
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.236
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.242
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.246
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.252
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.258
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.263
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.268
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.275
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.282
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.289
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.296
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.742
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.747
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.755
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.760
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.765
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.771
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.777
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.783
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.789
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.794
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.800
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.806
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.811
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.816
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.822
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.828
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.833
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.839
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.845
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.852
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.858
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.983
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.989
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:12.996
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.001
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.008
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.013
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.019
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.024
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.030
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.035
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.042
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.047
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.052
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.057
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.062
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.068
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.073
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.078
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.084
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.091
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:19:13.097
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.show.outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@908f89,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@a8157c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+/:
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.add.block.comment,Add Block Comment,
+		Enclose the selection with a block comment,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1cee31a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1481b73,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+I:
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.indent,Correct Indentation,
+		Corrects the indentation of the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@9fa0ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@8cbb86,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_RIGHT:
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@619a77,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1aeb5ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7e7f72,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@d16c5d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6c8a54,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Bracket,
+		Go to Matching Bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1e9ef3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.format,Format,
+		Format the selected text,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@187eac3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.document,Format,
+		Format selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@17fb838,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for CTRL+SHIFT+\:
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.remove.block.comment,Remove Block Comment,
+		Remove the block comment enclosing the selection,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1a57c66,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@196f8f3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.534
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_DOWN:
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@53020f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@19bd4da,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.535
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.previous.member,Go to Previous Member,
+		Move the caret to the previous member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4d0cfb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.previousSibling,Previous Sibling,
+		Go to Previous Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@f3157b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.535
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_LEFT:
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@943143,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@184acf7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.535
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.next.member,Go to Next Member,
+		Move the caret to the next member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5e24fb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.nextSibling,Next Sibling,
+		Go to Next Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@fa9ab6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-04-26 10:21:20.535
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_UP:
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@511385,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1fa1336,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.664
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.669
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.759
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.767
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.777
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.786
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.795
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.802
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.811
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.819
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.833
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.840
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.845
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.851
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.858
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.864
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.868
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.874
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.880
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.899
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:28.906
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.514
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.521
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.526
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.531
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.537
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.543
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.548
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.553
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.559
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.565
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.571
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.577
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.581
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.587
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.592
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.598
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.602
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.608
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.614
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.621
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:46.627
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.879
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.886
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.892
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.898
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.904
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.910
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.915
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.922
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.928
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.933
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.939
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.944
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.949
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.955
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.960
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.965
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.970
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.976
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.983
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:23:47.989
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.922
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.930
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_greece
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.939
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.945
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.950
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.956
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.961
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.968
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.974
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.981
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.985
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.992
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:30.998
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.005
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.010
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.015
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.023
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.031
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:31.037
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.000
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.012
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_burma
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.021
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.029
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.035
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.041
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.047
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.053
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.060
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.064
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.069
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.076
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.082
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.086
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.092
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.098
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.105
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:47.111
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.309
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.322
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/checkbox_luxembourg
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.328
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.334
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.341
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.347
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.354
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.359
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.364
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.367
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.373
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.379
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.385
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.392
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.398
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.405
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:25:58.412
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:10.999
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.015
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.022
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/north
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.029
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/east
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.035
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/south
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.041
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/west
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.047
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.051
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.058
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.064
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.069
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.076
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.082
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.088
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.095
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:26:11.100
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.421
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/sub_header
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.445
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.450
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.456
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.463
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.468
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.475
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.481
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.488
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.528
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:33.536
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.635
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question4
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.641
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.649
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.656
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/munich_question_2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.663
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/question5
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.669
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/germany
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.676
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/poland
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.689
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/denmark
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.696
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:29:52.703
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:33.121
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:33.129
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:37.841
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:37.854
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:42.498
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:42.505
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:57.813
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:57.820
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:59.519
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:37:59.526
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:38:00.795
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:38:00.808
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/reset_button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2018-04-26 10:41:57.590
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/evaluate_button
